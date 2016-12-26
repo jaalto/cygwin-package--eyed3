@@ -1,0 +1,6 @@
+sdesc: "Display and manipulate id3-tags on the command-line"
+ldesc: "A command-line editor to add/edit/remove ID3-tags on mp3 files.
+It supports version ID3 1.0, 1.1, 2.3 and 2.4 standards.
+Program can display length and bitrate from an MP3 file."
+category: Utils
+requires: python

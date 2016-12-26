@@ -1,0 +1,66 @@
+eyed3
+------------------------------------------
+
+Display and manipulate id3-tags on the command-line
+
+A command-line editor to add/edit/remove ID3-tags on mp3 files.
+It supports version ID3 1.0, 1.1, 2.3 and 2.4 standards.
+Program can display length and bitrate from an MP3 file.
+
+Runtime requirements:
+  python
+
+Build requirements:
+  python
+
+Canonical homepage:
+  http://eyed3.nicfit.net
+
+Canonical download:
+  http://eyed3.nicfit.net/releases/
+
+Version control repository:
+  # More info in http://eyed3.nicfit.net/installation.html
+  http://mercurial.selenic.com/wiki/
+  https://bitbucket.org/nicfit/eyed3
+  hg clone https://nicfit@bitbucket.org/nicfit/eyed3
+
+Mailing list:
+
+Forum / Wiki:
+
+IRC channel:
+
+Upstream contact:
+  Maintainer: Travis Shirk <travis@pobox.com>
+  Bugs: https://bitbucket.org/nicfit/eyed3/issues
+
+License:
+  GPL
+
+Language:
+  C
+
+------------------------------------------
+
+Build instructions:
+  unpack eyed3-*-src.tar.bz2
+    if you use setup to install this source package, it will be
+    unpacked under /usr/src automatically
+  cd /usr/src
+  ./eyed3*.sh all
+
+------------------------------------------
+
+Files included in the binary distribution:
+  See Cygwin package archive
+
+------------------------------------------
+
+Port Notes:
+
+----- version 0.7.9-1 -----
+- Initial release 2016-11-13 Jari Aalto
+
+Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
+Copyright (C) 2016 Jari Aalto; Licensed under GPL v2 or later
